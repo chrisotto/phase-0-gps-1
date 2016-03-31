@@ -8,4 +8,4 @@
 
 `puts "Put code here"`
 
-[[https://raw.githubusercontent.com/chrisotto/phase-0-gps-1/awesome-branch/working_together.png|alt=sam_and_chris]]
+[[https://raw.githubusercontent.com/chrisotto/phase-0-gps-1/master/working_together.png|alt=sam_and_chris]]
